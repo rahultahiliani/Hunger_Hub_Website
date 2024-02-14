@@ -1,5 +1,4 @@
-React + Vite
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HungerHub, a culinary haven, offers delectable dishes, vibrant ambiance, and impeccable service. Savor unforgettable moments with us. Explore now
 
 Currently, two official plugins are available:
 
